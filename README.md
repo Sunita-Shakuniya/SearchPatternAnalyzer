@@ -1,2 +1,3 @@
 # SearchPatternAnalyzer
-The project focused on exploring and analyzing personal search history data chrome . The project aims to identify trends and patterns related to domains &amp; topics visited no of times.
+The project focused on exploring and analyzing personal search history data using python  with libraries such as numpy, pandas, matplotlib. The project aims to identify trends and patterns on the basis of no of time the visited .
+
